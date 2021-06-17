@@ -11,23 +11,22 @@ Table of Content
 
 
 ## Description
-A collaborative work of building an interactive Covid-19 dashboard to provide insights about COVID globally by students from the Digital Sciences Track of Center for Research and Interdiscplinarity. 
+This is a project developed at the CRI Université de Paris in the second semester of the Master of Digital Science, within the Challenge Hub program. the project is the sentiment analysis of 16 speeches by activist greta thunberg, who has given speeches in different settings, with different audiences and on two continents.
+In addition, the analysis of each of the speeches will be made to see if they are based on opinions or facts. the speeches include the years 2018, 2019 and 2020, it is clarified that they are not all the speeches made by the activist in those years.
 
 ## Datasets
 The data sets are from the open data of [Jonhs Hopkins University](https://github.com/CSSEGISandData/COVID-19)
-* Dataset_COVID_Death_complete.csv
-* Dataset_COVID_confiremed_complete.csv
-* Dataset_COVID_recovered_complete.csv
+* Speeches.csv
 
 Columns in the datasets:
 
-- `Country / region`: identifies the name of the country
-- `Province / state`: identifies the name of the states
-- `Latitude`: the geographic coordinates that specifies the north – south position of a point on the Earth's surface.
-- `Longitude`: the geographic coordinates that specifies the east – west position of a point on the Earth's surface.
-- `Date`: identifies the cumulative cases per day in each of the countries.
-
-To calulcate the normalization we acquire to get the population of the each country https://www.kaggle.com/tanuprabhu/population-by-country-2020 and we only used `Country and Population`. 
+- `Title`: Title of the speech.
+- `Event`: identifies the event of the speech.
+- `Location`: the city on the Earth's surface.
+- `Date`: the geographic coordinates that specifies the east – west position of a point on the Earth's surface.
+- `Link Video`: identifies the link video of the speech on the platform "www.youtube.com".
+- `Trascript from`: it is the link to the webside of the trascription of each speech. 
+- `Script`: it is the trascription of each speech. 
 
 
 ## Installation Requirements
