@@ -41,7 +41,7 @@ Code - Download ZIP
 
 - Clone this repository with this command
 ```
-git clone https://github.com/soledadli/interactive-Covid-19-dashboard.git
+git clone https://github.com/Eli-2020/climate_speeches.git
 ```
 - Install the project dependencies run pip install -r requirements.txt
 ```
