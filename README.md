@@ -7,7 +7,7 @@ Table of Content
   * [Licensing](#licensing)
   * [Author](#Authors)
 
-# Interactive-Covid-19-Dashboard
+# Climate Speeches
 
 
 ## Description
@@ -24,7 +24,7 @@ Columns in the datasets:
 - `Title`: Title of the speech.
 - `Event`: identifies the event of the speech.
 - `Location`: the city on the Earth's surface.
-- `Date`: the geographic coordinates that specifies the east – west position of a point on the Earth's surface.
+- `Date`: the date of each speech.
 - `Link Video`: identifies the link video of the speech on the platform  [youtube](https://www.youtube.com/) 
 - `Trascript from`: it is the link to the webside of the trascription of each speech. 
 - `Script`: it is the trascription of each speech. 
