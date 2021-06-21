@@ -59,7 +59,7 @@ on the other axis if the story is different, since the polarity of the 16 speech
 
 As can be seen in the graph, most of the negative speeches occurred in 2018, this may be due to an evolution in the elaboration of the speeches and, therefore, it should be understood that the result sought is to commit actions to the leaders of the most industrialized countries.
 
-<img src="image/9_speeches.png" width="600"/> <img src="image/7 speeches.png" width="600"/>
+<img src="image/9_speeches.png" width="600"/> <img src="image/7-speeches.png" width="600"/>
 Now, an additional analysis was done with all the speeches and it is to divide them to make an analysis in their parts in their polarity. what was found is very interesting, despite the fact that the speeches have the same objective and present the same arguments, the speeches are not the same and have their own dynamics.
 Therefore, most have changes between negative and positive parts, there is only one exception "You are Acting Like Spoiled Irresponsible Children" which is positive all the time.
 
