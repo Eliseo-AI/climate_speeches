@@ -34,11 +34,28 @@ Columns in the datasets:
 ## Results
 The first part of the project cleans the column of the transcription of 18 speeches, of which 5 are from the year 2018, 9 from the year 2019 and 2 from the year 2020. For this, the repetitive and worthless words were eliminated to be able to count, analyze, to this will have two final results shown below:
 
-<img src="image/sun_words.png" width="600"/>
-In the graph of the sun, it has the most repeated words in the 16 speeches by size, it is found that in the center are the words:
-
 <img src="image/leaf_words.png" width="600"/>
-In the graph of the leaf, it has the most repeated words in the 16 speeches by size, it is found that in the center are the words:
+Inside the graph of the leaf, it has the most repeated words in the 16 speeches by repetition ranking, the "lemmatized" technique was used, the results are:
+climate, people, year, crisis, emission, change, world, need, time, future.
+
+<img src="image/sun_words.png" width="600"/>
+Inside the graph of the sheet, it has the roots of the most repeated words in the 16 speeches by repetition ranking, the "stemmed" technique was used, the results are:
+climat, peopl, year, chang, need, crisi, emiss, us, world, polit.
+
+Comparing the two graphs shows us that the results in the ranking change, leaving words like: time, future, but including the root of the word polit.
+
+Now, in the second part we want to solve two questions, if the speeches are based on facts or opinions? and you have the perseption by the news that greta's speeches are negative, then the serious question are the speeches positive or negative?
+
+Polarity: How positive or negative a word is. -1 is very negative. +1 is very positive.
+Subjectivity: How subjective, or opinionated a word is. 0 is fact. +1 is very much an opinion.
+
+As you can see, there is a graph with the titles of the speeches on two axes.
+the X axis is the one that shows whether the speeches are positive or negative, the Y axis is the one that shows whether each of the speeches is based on opinions or facts.
+
+As you can see of the 16 speeches, only one has more opinions than facts, all the others are below 0.5, which shows that they are mainly based on facts.
+on the other axis if the story is different, since the polarity of the 16 speeches is more varied, of which 5 are negative, one can be considered neutral "Save the World by Changing the Rules" and 11 are positive.
+
+As can be seen in the graph, most of the negative speeches occurred in 2018, this may be due to an evolution in the elaboration of the speeches and, therefore, it should be understood that the result sought is to commit actions to the leaders of the most industrialized countries.
 
 ## Installation Requirements
 - Download Zip
