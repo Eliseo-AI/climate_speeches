@@ -61,8 +61,7 @@ The graph shows how most of the negative speeches occurred in 2018, this may be 
 
 <img src="image/9_speeches.png" width="800"/>  <img src="image/7-speeches.png" width="810"/>
 
-Now, an additional analysis was done with all the speeches and it is to divide them to make an analysis in their parts in their polarity. what was found is very interesting, despite the fact that the speeches have the same objective and present the same arguments, the speeches are not the same and have their own dynamics.
-Therefore, most have changes between negative and positive parts, there is only one exception "You are Acting Like Spoiled Irresponsible Children" which is positive all the time.
+The last graph is an additional comparative analysis of all the speeches, they were divided into ten equal parts regardless of their length, which allowed making an individual graph of the polarity during each speech. what was found is very interesting, despite the fact that the speeches have the same objective and present the same arguments, the speeches are not the same and have their own dynamics. Therefore, most have changes between the negative and positive parts, there is only one exception in the speech entitled: "You are acting like an irresponsible spoiled child", which has a positive polarity all the time despite its title.
 
 ## Installation Requirements
 - Download Zip
