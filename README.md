@@ -32,6 +32,13 @@ Columns in the datasets:
 - `Script`: it is the trascription of each speech. 
 - 
 ## Results
+The presented graphs were divided into groups to be able to compare the performance of the vaccination campaign, the first group has the four types of vaccines, the second the comparison between the first and second doses, the third is the comparison between the male and female genders in the total doses applied by each supplier.
+![sun](images/sun.png)
+
+
+![leaf](images/leaf.png)
+
+
 
 ## Installation Requirements
 - Download Zip
