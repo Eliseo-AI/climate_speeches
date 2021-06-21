@@ -36,11 +36,8 @@ The presented graphs were divided into groups to be able to compare the performa
 
 <img src="image/sun_words.png" width="600"/>
 
-![sun](image/sun_words.png)
 
 <img src="image/leaf_words.png" width="600"/>
-
-![leaf](image/leaf_words.png)
 
 
 
@@ -61,13 +58,9 @@ pip install -r requirements.txt
 - Requirements includes:
 ```
 pandas == 1.2.4
-streamlit==0.82.0
 plotly==4.14.3
 ```
-To run the streamlit code
-```
-streamlit run app.py
-```
+
 ## Licensing
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
