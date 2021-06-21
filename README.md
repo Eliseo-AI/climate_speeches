@@ -50,14 +50,14 @@ Polarity: How positive or negative a word is. -1 is very negative. +1 is very po
 Subjectivity: How subjective, or opinionated a word is. 0 is fact. +1 is very much an opinion.
 
 <img src="image/titles.png" width="900"/>
-As you can see, it is a graph with the titles of the speeches on two axes.
+It is a graph with the titles of the speeches on two axes.
 the X axis is the one that shows whether the speeches are positive or negative, the Y axis is the one that shows whether each of the speeches is based on opinions or facts.
 
 <img src="image/dates.png" width="900"/>
-As you can see of the 16 speeches, only one has more opinions than facts, all the others are below 0.5, which shows that they are mainly based on facts.
+Comparing all 16 speeches, only one has more opinions than facts, all the others are below 0.5, which shows that they are mainly based on facts.
 on the other axis if the story is different, since the polarity of the 16 speeches is more varied, of which 5 are negative, one can be considered neutral "Save the World by Changing the Rules" and 11 are positive.
 
-As can be seen in the graph, most of the negative speeches occurred in 2018, this may be due to an evolution in the elaboration of the speeches and, therefore, it should be understood that the result sought is to commit actions to the leaders of the most industrialized countries.
+The graph shows how most of the negative speeches occurred in 2018, this may be due to an evolution in the elaboration of speeches and, therefore, it should be understood that the desired result is to commit actions to the leaders of industrialized countries.
 
 <img src="image/9_speeches.png" width="800"/>  <img src="image/7-speeches.png" width="800"/>
 
