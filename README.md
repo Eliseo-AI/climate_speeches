@@ -49,17 +49,18 @@ Now, in the second part we want to solve two questions, if the speeches are base
 Polarity: How positive or negative a word is. -1 is very negative. +1 is very positive.
 Subjectivity: How subjective, or opinionated a word is. 0 is fact. +1 is very much an opinion.
 
-<img src="image/titles.png" width="600"/>
+<img src="image/titles.png" width="900"/>
 As you can see, it is a graph with the titles of the speeches on two axes.
 the X axis is the one that shows whether the speeches are positive or negative, the Y axis is the one that shows whether each of the speeches is based on opinions or facts.
 
-<img src="image/dates.png" width="600"/>
+<img src="image/dates.png" width="900"/>
 As you can see of the 16 speeches, only one has more opinions than facts, all the others are below 0.5, which shows that they are mainly based on facts.
 on the other axis if the story is different, since the polarity of the 16 speeches is more varied, of which 5 are negative, one can be considered neutral "Save the World by Changing the Rules" and 11 are positive.
 
 As can be seen in the graph, most of the negative speeches occurred in 2018, this may be due to an evolution in the elaboration of the speeches and, therefore, it should be understood that the result sought is to commit actions to the leaders of the most industrialized countries.
 
-<img src="image/9_speeches.png" width="600"/> <img src="image/7-speeches.png" width="600"/>
+<img src="image/9_speeches.png" width="600"/> <img src="image/7-speeches.png" width="800"/>
+
 Now, an additional analysis was done with all the speeches and it is to divide them to make an analysis in their parts in their polarity. what was found is very interesting, despite the fact that the speeches have the same objective and present the same arguments, the speeches are not the same and have their own dynamics.
 Therefore, most have changes between negative and positive parts, there is only one exception "You are Acting Like Spoiled Irresponsible Children" which is positive all the time.
 
