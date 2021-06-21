@@ -32,14 +32,13 @@ Columns in the datasets:
 - `Script`: it is the trascription of each speech. 
 - 
 ## Results
-The presented graphs were divided into groups to be able to compare the performance of the vaccination campaign, the first group has the four types of vaccines, the second the comparison between the first and second doses, the third is the comparison between the male and female genders in the total doses applied by each supplier.
+The first part of the project cleans the column of the transcription of 18 speeches, of which 5 are from the year 2018, 9 from the year 2019 and 2 from the year 2020. For this, the repetitive and worthless words were eliminated to be able to count, analyze, to this will have two final results shown below:
 
 <img src="image/sun_words.png" width="600"/>
-
+In the graph of the sun, it has the most repeated words in the 16 speeches by size, it is found that in the center are the words:
 
 <img src="image/leaf_words.png" width="600"/>
-
-
+In the graph of the leaf, it has the most repeated words in the 16 speeches by size, it is found that in the center are the words:
 
 ## Installation Requirements
 - Download Zip
