@@ -6,7 +6,7 @@ Table of Content
   * [Results](#results)
   * [Installation Requirements](#installation-requirements)
   * [Licensing](#licensing)
-  * [Author](#Authors)
+  * [Author](#Author)
 
 # Climate Speeches
 
